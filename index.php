@@ -107,17 +107,17 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 							<h1>Siz yetkili bi abiye benziyosunuz</h1>
 							
 							<h3>Sistem Arızası Durumunda</h3>
-Baskın Burak Şenbaşlar - 0534 592 35 16<br/>
-Kadir Çetinkaya - 0506 429 11 13<br/>
+Baskın Burak Şenbaşlar - 0534 xxx xx xx<br/>
+Kadir Çetinkaya - 0506 xxx xx xx<br/>
 
 <h2>Diğer bütün durumlarda</h2>
-Selin Akpınar - 0538 294 52 56 - Etkinlik Koordinatörü<br/>
-Merve Çiftdoğan - 0553 450 29 79 - Etkinlik Koordinatörü<br/>
-Çağrı Yalçın - 0506 585 25 85 - Başkan<br/>
-Furkan Güllü - 0506 832 46 64 - YK<br/>
-Uzay Kaş - 0534 219 90 45 - YK<br/>
-Akın Can Genç - 0531 846 81 58 - YK<br/>
-Baskın Burak Şenbaşlar - 0534 592 35 16 - YK<br/>
+Selin Akpınar - 0538 xxx xx xx - Etkinlik Koordinatörü<br/>
+Merve Çiftdoğan - 0553 xxx xx xx - Etkinlik Koordinatörü<br/>
+Çağrı Yalçın - 0506 xxx xx xx - Başkan<br/>
+Furkan Güllü - 0506 xxx xx xx - YK<br/>
+Uzay Kaş - 0534 xxx xx xx - YK<br/>
+Akın Can Genç - 0531 xxx xx xx - YK<br/>
+Baskın Burak Şenbaşlar - 0534 xxx xx xx - YK<br/>
 						</div>
 						<div class="col-md-4">
 							<h1>ÖNEMLİ! OKUYUN!</h1>
