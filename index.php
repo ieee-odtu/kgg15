@@ -111,7 +111,7 @@ Baskın Burak Şenbaşlar - 0534 xxx xx xx<br/>
 Kadir Çetinkaya - 0506 xxx xx xx<br/>
 
 <h2>Diğer bütün durumlarda</h2>
-Selin Akpınar - 0538 xxx xx xx - Etkinlik Koordinatörü<br/>
+Selin Akpınar - 053x xxx xx xx - Etkinlik Koordinatörü<br/>
 Merve Çiftdoğan - 0553 xxx xx xx - Etkinlik Koordinatörü<br/>
 Çağrı Yalçın - 0506 xxx xx xx - Başkan<br/>
 Furkan Güllü - 0506 xxx xx xx - YK<br/>
