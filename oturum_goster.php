@@ -168,7 +168,7 @@ function generateprogram($gun,$adaminID)
 		?>
 		<h1 style="text-align:center">Kampüs Gelişim Günleri 2015 Oturum Sorgulama Sayfası</h1>
 		<div style="margin:0 auto;width:300px">
-			<form class="form" action="oturum_goster_publish.php" method="get">
+			<form class="form" action="oturum_goster.php" method="get">
 			<div class="form-group">
 				Barkod: <input class="form-control" style="margin-bottom:3px" type="text" name="id" placeholder="Kartınızın üzerinde yazan numara"/></div>
 				<input class="btn btn-info" type="submit" value="Sorgula"/>
